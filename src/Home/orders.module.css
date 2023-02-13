@@ -1,0 +1,39 @@
+#orders {
+  display: flex;
+}
+#orders_head {
+  margin-left: 40px;
+  text-align: left;
+}
+#Filters {
+  padding: 10px;
+  margin-left: 70px;
+}
+.filter_input {
+  margin: 10px;
+}
+th {
+  background-color: white;
+}
+td {
+  background-color: white;
+  margin: 1px;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+tr {
+  background-color: white;
+  row-gap: 2px;
+  -moz-box-shadow: 0px 2px 2px black;
+  box-shadow: 0px 2px 3px solid black;
+}
+table {
+  margin-left: 30px;
+  margin-top: 0px;
+  border-collapse: separate;
+  border-spacing: 0 15px;
+  width: 100%;
+  border-left: none;
+}

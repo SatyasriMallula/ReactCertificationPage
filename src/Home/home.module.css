@@ -1,0 +1,62 @@
+#Navbar {
+  display: flex;
+  background-color: white;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.list {
+  margin-top: 30px;
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+#list {
+  padding-left: 10px;
+  margin-top: 35px;
+  margin-left: 30px;
+}
+#logout {
+  margin-left: 55%;
+  margin-top: 35px;
+}
+#img {
+  margin: 30px;
+  display: flex;
+}
+#img p {
+  padding-left: 10px;
+  margin-top: 0px;
+  font-size: 25px;
+}
+#login_div {
+  height: 310px;
+  width: 400px;
+  margin-left: 35%;
+  margin-right: 40%;
+  box-shadow: 1px 1px 1px 1px gray;
+}
+#login_div input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 85%;
+  margin: 30px;
+}
+#login_div button {
+  width: 90%;
+  border-radius: 15px;
+  border-color: gray;
+  padding: 12px;
+  margin: 17px;
+  color: white;
+  background-color: #20b883;
+}
+#orders {
+  display: flex;
+}
+a:visited {
+  color: #20b883;
+}
+a:active {
+  text-decoration: underline;
+}
