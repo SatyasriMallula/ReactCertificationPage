@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCertificationPage/static/css/main.9a18afea.css",
+    "main.js": "/ReactCertificationPage/static/js/main.849f7394.js",
+    "static/js/787.1c986be9.chunk.js": "/ReactCertificationPage/static/js/787.1c986be9.chunk.js",
+    "index.html": "/ReactCertificationPage/index.html",
+    "main.9a18afea.css.map": "/ReactCertificationPage/static/css/main.9a18afea.css.map",
+    "main.849f7394.js.map": "/ReactCertificationPage/static/js/main.849f7394.js.map",
+    "787.1c986be9.chunk.js.map": "/ReactCertificationPage/static/js/787.1c986be9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a18afea.css",
+    "static/js/main.849f7394.js"
+  ]
+}
